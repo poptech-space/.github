@@ -33,7 +33,7 @@
 
 ### 🌐 Контакты и экосистема
 
-* **Сайт студии**: [neuro.poptech.space](https://neuro.poptech.space/)
+* **Проекты студии**: [https://poptech.space/neurostudio](https://poptech.space/neurostudio)
 * **Основной портал**: [poptech.space](https://poptech.space/)
-* **Личный контакт основателя**: [t.me/grishchenkov](https://t.me/grishchenkov)
+* **Личный контакт основателя**: [t.me/poptech_space](https://t.me/poptech_space)
 * **Блог на VC.ru**: [Neuroman](https://vc.ru/id5755765)
